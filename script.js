@@ -128,6 +128,8 @@ console.log(x);
 * CODING CHALLENGE 1
 */
 
+/*
+
 var massMark = 80; //kg
 var massJohn = 70; //kg 
 
@@ -141,6 +143,23 @@ console.log(BMIJohn);
 var isMarkHigher = BMIMark > BMIJohn;
 console.log(isMarkHigher);
 console.log('Is Marks´s BMI higher than John´s? ' + isMarkHigher);
+
+*/
+
+
+
+/***********************
+* If / else statements
+*/
+
+
+var firstName = 'John';
+var civilStatus = 'married';
+
+if(civilStatus === 'married') {
+    console.log(firstName + ' is married!');
+
+}
 
 
 

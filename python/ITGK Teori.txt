@@ -1,0 +1,16 @@
+a) Hva er Alan Turing kjent for?
+
+Han er kjent for sine bidrag innen informatikk, kunstig intelligens og kryptografi.
+
+b) Hva kalles mindre kretskort som plugges inn i hoved(krets-)kortet?
+
+Datterkort
+
+c) Hva står CPU for?
+
+Central Processing Unit
+
+d) RAM står for random access memory, men hva menes egentlig med random i dette tilfellet? 
+
+Dataen som overføres til minnet er lagt i en tilfeldig rekkefølge. Det vil derfor leses og skrives tilfeldig plassert. 
+
